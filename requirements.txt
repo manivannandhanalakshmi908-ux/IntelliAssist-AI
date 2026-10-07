@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+pypdf
+python-docx
+pandas
+scikit-learn
+vaderSentiment
+langchain
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+sentence-transformers
